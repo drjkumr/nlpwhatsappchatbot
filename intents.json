@@ -2,7 +2,7 @@
     "intents":[
         {
             "tag":"greeting",
-            "patterns":["Hello","Hi","Hola","Bonjour","Vanakkam","Namaste","what's up","Hey"],
+            "patterns":["Hello","Hi","Hola","Bonjour","Vanakkam","what's up","Hey"],
             "responses":[
             "Hello there! Happy to help",
             "What's up! How could I help you!",
@@ -271,4 +271,5 @@
         ]
         }
     ]
+
 }
